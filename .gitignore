@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+**/test/
+**/train/
+**/data/
+
+**/.DS_Store
